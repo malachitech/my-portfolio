@@ -2,11 +2,16 @@ import React from "react";
 import { useTheme } from "next-themes";
 import data from "../../data/portfolio.json";
 
-const Button = ({ children, type, onClick, classes }) => {
+const Button = ({ children, type, onClick, classes }, ref) => {
+  // const MyLink = React.forwardRef((props, ref) => <NavLink innerRef={ref} {...props} />);
+  // console.log(MyLink, "The link")
   const { theme } = useTheme();
   if (type === "primary") {
+    
+    
     return (
       <button
+        ref={ref}
         onClick={onClick}
         type="button"
         className={`text-sm tablet:text-base p-1 laptop:p-2 m-1 laptop:m-2 rounded-lg ${
@@ -19,6 +24,7 @@ const Button = ({ children, type, onClick, classes }) => {
       </button>
     );
   }
+  
   return (
     <button
       onClick={onClick}
@@ -36,4 +42,6 @@ const Button = ({ children, type, onClick, classes }) => {
   );
 };
 
-export default Button;
+const forwardButton = React.forwardRef(Button)
+
+export default forwardButton;
