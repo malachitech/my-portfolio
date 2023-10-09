@@ -54,7 +54,7 @@
     {
       "id": "4",
       "title": "imprxx.com",
-      "description": "WordPress, Web Development, PHP, Javascript. Imprxx is a dedicated innovation showcasing the potential of passions and technology in redefining entertainment, event hosting and management, shopping and social media experiences thus creating better ways for people to connect and interact with content and creators.",
+      "description": "WordPress, Web Development, PHP, Javascript.\r\nImprxx is a dedicated innovation showcasing the potential of passions and technology in redefining entertainment, event hosting and management, shopping and social media experiences thus creating better ways for people to connect and interact with content and creators.",
       "imageSrc": "https://malachiportfolio.netlify.app/imgs/imprxxProjectFour.PNG",
       "url": "https://imprxx.com"
     }
@@ -107,6 +107,6 @@
     },
     "frontend": ["Javascript", "HTML5", "CSS3", "React and  Next13", "Typescript", "TailwindCSS", "Material UI"],
     "backend": ["Node.js", "Express.js", "JWT", "MongoDB", "MySQL"],
-    "others": ["Redux", "Git", "NPM", "Postman", "Heroku", "Vercel"]
+    "others": ["Redux", "Git", "NPM", "Vite", "Postman", "Heroku", "Vercel"]
   }
 }
