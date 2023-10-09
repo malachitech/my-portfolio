@@ -10,7 +10,13 @@
 
 body {
   @apply dark:bg-black dark:text-white;
-  padding: 0 50px;
+  padding: 0 20px;
+}
+
+@media only screen and (min-width: 600px) {
+  body {
+    padding: 0 50px;
+  }
 }
 
 @media only screen and (min-width: 1000px) {
