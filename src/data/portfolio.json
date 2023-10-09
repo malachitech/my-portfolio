@@ -103,10 +103,10 @@
     "education": {
       "universityName": "IT Skills",
       "universityDate": "March 2022- Oct 2022",
-      "universityPara": "Learnt and also worked as a Software Developeer"
+      "universityPara": "Learnt and also worked as a Software Developer"
     },
     "frontend": ["Javascript", "HTML5", "CSS3", "React and  Next13", "Typescript", "TailwindCSS", "Material UI"],
-    "backend": ["Node.js", "Express.js", "JWT", "MongoDB", "MySQL"],
+    "backend": ["Node.js", "Express.js", "JWT", "MongoDB", "MySQL", "PHP"],
     "others": ["Redux", "Git", "NPM", "Vite", "Postman", "Heroku", "Vercel"]
   }
 }
