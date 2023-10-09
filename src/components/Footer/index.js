@@ -24,9 +24,9 @@ const Footer = ({}) => {
         </div>
       </div>
       <h1 className="text-sm text-bold mt-2 laptop:mt-10 p-2 laptop:p-0">
-        Made With ❤ by{"Malachi Ezeabuchukwu "}
+        Made With ❤ by{" Malachi Ezeabuchukwu "}
         <Link href="/">
-          <a className="underline underline-offset-1">Malachi Ezeabuchukwu</a>
+          <p className="underline underline-offset-1">Malachi Ezeabuchukwu</p>
         </Link>
       </h1>
     </>

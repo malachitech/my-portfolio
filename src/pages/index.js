@@ -50,6 +50,7 @@ export default function Home() {
   }, []);
 
   return (
+
     <div className={`relative ${data.showCursor && "cursor-none"}`}>
 
 {data.showCursor && <Cursor />}
@@ -57,7 +58,7 @@ export default function Home() {
         <title>{data.name}</title>
       </Head>
 
-      {/* <NoSsr /> */}
+      
 
       <div className="gradient-circle"></div>
       <div className="gradient-circle-bottom"></div>
@@ -139,9 +140,14 @@ export default function Home() {
             {data.aboutpara}
           </p>
         </div>
-        {/* <Footer /> */}
+        <Footer />
       </div>
 
           </div>
+    
   );
+  
+  
+  
 }
+
