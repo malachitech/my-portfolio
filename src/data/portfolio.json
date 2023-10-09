@@ -75,21 +75,21 @@
   ],
   "aboutpara": "Adept Software Developer with 3+ years of experience in building functional and modern full stack websites. I Leverage technical, analytical, and problem-solving skills to create high-performance Restful API endpoints and user interfaces that fuels competitive advantage and revenue growth.I get excited about opportunities where I create #MERN stack applications. Seeing the beauty and the problem it solves is amazing.I love connecting with new people, you can reach me at tmezeh9@gmail.com.",
   "resume": {
-    "tagline": "👋  I'm a software engineer.",
+    "tagline": "👋  I'm a software Developer.",
     "description": "I have delivered amazing websites with great user experiences to clients. Well-versed with React, Javascript, Next13.",
     "experiences": [
       {
         "id": "1",
         "dates": "April 2023 - September 2023",
         "type": "Contract",
-        "position": "Fullstack Engineer at imprxx.com",
+        "position": "Fullstack Developer at imprxx.com",
         "bullets": "Assisted in the integration of third-party APIs and services to enhance application functionality, Built core frontend  functionalities that allowed for proper role management, user activities and state management, Developed dynamic routing for every type of user, Created backend functionalities for users to perform CRUD activities on the site, Achieved a 25% reduction in page load times through performance optimization techniques, Participated in sprint planning meetings and daily stand-ups to track progress and prioritize tasks "
       },
       {
         "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
         "dates": "Feb 2023 - March 2023",
         "type": "Contract",
-        "position": "Software Engineer at Crystal hills software group",
+        "position": "Software Developer at Crystal hills software group",
         "bullets": "Designed and implemented RESTful APIs for data retrieval and manipulation and ensuring data consistency and security, Address security concerns including data validation secure API endpoints and protection against common web vulnerabilities, Assisted in the development of a dynamic e-commerce platform while gaining proficiency in React.js and Node.js "
       },
       {
