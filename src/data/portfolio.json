@@ -25,7 +25,9 @@
       "link": "https://twitter.com/MalachiTochukwu"
     },
     
-    { "id": "4", "title": "Email", "link": "mailto:tmezeh9@gmail.com" }
+    { "id": "4", "title": "Email", "link": "mailto:tmezeh9@gmail.com" },
+    { "id": "5", "title": "My Resume", "link": "/resume" }
+
   ],
   "projects": [
     {
@@ -62,6 +64,7 @@
       "title": "Web Development With Wordpress and Woocommerce.",
       "description": "I combine creative design and technical skills to build website with wordpress and woocommerce."
     }
+    
   ],
   "aboutpara": "Adept Software Developer with 3+ years of experience in building functional and modern full stack websites. I Leverage technical, analytical, and problem-solving skills to create high-performance Restful API endpoints and user interfaces that fuels competitive advantage and revenue growth.I get excited about opportunities where I create #MERN stack applications. Seeing the beauty and the problem it solves is amazing.I love connecting with new people, you can reach me at tmezeh9@gmail.com.",
   "resume": {
@@ -73,23 +76,30 @@
         "dates": "April 2023 - September 2023",
         "type": "Contract",
         "position": "Fullstack Engineer at imprxx.com",
-        "bullets": "Worked on frontend designs and functionalities, Created routes and templates for role management and user activities."
+        "bullets": "Assisted in the integration of third-party APIs and services to enhance application functionality, Built core frontend  functionalities that allowed for proper role management, user activities and state management, Developed dynamic routing for every type of user, Created backend functionalities for users to perform CRUD activities on the site, Achieved a 25% reduction in page load times through performance optimization techniques, Participated in sprint planning meetings and daily stand-ups to track progress and prioritize tasks "
       },
       {
         "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
         "dates": "Feb 2023 - March 2023",
         "type": "Contract",
         "position": "Software Engineer at Crystal hills software group",
-        "bullets": "Worked on the frontend of some React applications, Created backend routes for user management."
+        "bullets": "Designed and implemented RESTful APIs for data retrieval and manipulation and ensuring data consistency and security, Address security concerns including data validation secure API endpoints and protection against common web vulnerabilities, Assisted in the development of a dynamic e-commerce platform while gaining proficiency in React.js and Node.js "
+      },
+      {
+        "id": "7888uud495c23b-4f65-479a-9b8a",
+        "dates": "March 2022 - Oct. 2022",
+        "type": "Full Time",
+        "position": "Front End Developer at IT Skills Center",
+        "bullets": "Collaborated with designers to translate wireframes and mockups into visually appealing and user-friendly web interfaces. Ensure a consistent and aesthetically pleasing design across all pages, Write clean maintainable and efficient HTML CSS and JavaScript code to implement UI designs. Ensure cross-browser compatibility and responsive design to work seamlessly on various devices and screen sizes."
       }
     ],
     "education": {
       "universityName": "IT Skills",
       "universityDate": "March 2022- Oct 2022",
-      "universityPara": "Learn Software Development, Product Management, or Data Science"
+      "universityPara": "Learnt and also worked as a Software Developeer"
     },
-    "languages": ["Javascript", "HTML5", "CSS"],
-    "frameworks": ["React and  Next13", "Typescript", "NodeJs"],
-    "others": ["Figma", "Canva"]
+    "frontend": ["Javascript", "HTML5", "CSS3", "React and  Next13", "Typescript", "TailwindCSS", "Material UI"],
+    "backend": ["Node.js", "Express.js", "JWT", "MongoDB", "MySQL"],
+    "others": ["Redux", "Git", "NPM", "Postman", "Heroku"]
   }
 }
