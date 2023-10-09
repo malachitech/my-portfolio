@@ -1,10 +1,10 @@
 import React, { useRef, useState } from "react";
-import { getPostBySlug, getAllPosts } from "../../utils/api";
+import { getPostBySlug, getAllPosts } from "../../../utils/api";
 import Header from "../../components/Header";
 import ContentSection from "../../components/ContentSection";
 import Footer from "../../components/Footer";
 import Head from "next/head";
-import { useIsomorphicLayoutEffect } from "../../utils";
+import { useIsomorphicLayoutEffect } from "../../../utils";
 import { stagger } from "../../animations";
 import Button from "../../components/Button";
 import BlogEditor from "../../components/BlogEditor";

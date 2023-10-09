@@ -2,7 +2,7 @@ import fs from "fs";
 import matter from "gray-matter";
 import { join } from "path";
 import { v4 as uuidv4 } from "uuid";
-import { getRandomImage } from "../../../utils";
+import { getRandomImage } from "../../../../utils";
 
 export default function handler(req, res) {
   const postsfolder = join(process.cwd(), `/_posts/${uuidv4()}.md`);
