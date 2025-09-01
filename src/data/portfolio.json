@@ -29,12 +29,27 @@
     { "id": "4", "title": "Email", "link": "mailto:tmezeh9@gmail.com" },
     { "id": "5", "title": "My Resume", "link": "/resume" }
 
-  ],
+  ], 
   "projects": [
     {
       "id": "1",
+      "title": "Boardman Betting Platform",
+      "description": "Nextjs, React, Javascript.",
+      "imageSrc": "/testImage/tradingbot.png",
+      "url": "https://boardmanbets.vercel.app/"
+    },
+    {
+      "id": "8",
+      "title": "DMoonTradeBot",
+      "description": "Python, SolonaaRPC, Railway, sqlite3, flask, cryptography, Telegram, Jupiter API. DMoonTradeBot is a secure and fully asynchronous Telegram-based trading assistant built on the Solana blockchain. It enables users to monitor balances, set trading targets, and execute transactions using encrypted wallets. The bot integrates the Solana RPC, Jupiter API, and real-time rate-limiting to ensure both performance and user safety.",
+      "imageSrc": "/testImage/boardman.png",
+      "url": "https://github.com/malachitech/DMoonTradeBot"
+    },
+    
+    {
+      "id": "7",
       "title": "Banking App Demo",
-      "description": "Web Design, React, Javascript",
+      "description": "Mongodb, Postman, React, Javascript. Boardman Bets is a sleek, user-centric sports betting platform designed for modern punters. Featuring a clean, intuitive interface, it allows users to manage their betting wallet, track deposits, withdrawals, and transaction history.",
       "imageSrc": "/testImage/projectOne(eastdale).PNG",
       "url": "https://eastdalefinance.onrender.com/"
     },
@@ -88,11 +103,18 @@
     }
     
   ],
-  "aboutpara": "Adept Software Developer with 3+ years of experience in building functional and modern full stack websites. I Leverage technical, analytical, and problem-solving skills to create high-performance Restful API endpoints and user interfaces that fuels competitive advantage and revenue growth.I get excited about opportunities where I create #MERN stack applications. Seeing the beauty and the problem it solves is amazing.I love connecting with new people, you can reach me at tmezeh9@gmail.com.",
+  "aboutpara": "Adept Software Developer with 4+ years of experience in building functional and modern full stack websites. I Leverage technical, analytical, and problem-solving skills to create high-performance Restful API endpoints and user interfaces that fuels competitive advantage and revenue growth.I get excited about opportunities where I create #MERN stack applications. Seeing the beauty and the problem it solves is amazing.I love connecting with new people, you can reach me at tmezeh9@gmail.com.",
   "resume": {
     "tagline": "👋  I'm a software Developer.",
     "description": "I have delivered amazing websites with great user experiences to clients. Well-versed with React, Javascript, Next13.",
     "experiences": [
+      {
+        "id": "4",
+        "dates": "January 2025 - Till Date",
+        "type": "Full Time",
+        "position": "Fullstack Developer at Iksha Training Labs",
+        "bullets": "Iksha provides Best of Training & Services. Revolutionalizing the information technology industry through training and services to other industries."
+      },
       {
         "id": "1",
         "dates": "April 2023 - September 2023",
@@ -120,8 +142,8 @@
       "universityDate": "March 2022- Oct 2022",
       "universityPara": "Learnt and also worked as a Software Developer"
     },
-    "frontend": ["Javascript", "Wordpress", "HTML5", "CSS3", "React and  Next13", "Typescript", "TailwindCSS", "Material UI"],
-    "backend": ["Node.js", "Express.js", "JWT", "MongoDB", "MySQL", "PHP"],
+    "frontend": ["Javascript", "Wordpress", "HTML5", "CSS3", "React and  Next13", "Python","TailwindCSS", "Material UI"],
+    "backend": ["Node.js", "Express.js", "JWT", "MongoDB", "MySQL", "PHP",  "SolanaRPC", "cryptography", "Squlite3"],
     "others": ["Redux", "Git", "NPM", "Vite", "Postman", "Heroku", "Vercel"]
   }
 }
