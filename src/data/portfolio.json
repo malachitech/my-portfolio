@@ -35,7 +35,7 @@
       "id": "1",
       "title": "Banking App Demo",
       "description": "Web Design, React, Javascript",
-      "imageSrc": "https://malachiportfolio.netlify.app/imgs/digfuzprev.png",
+      "imageSrc": "/testImage/projectOne(eastdale).PNG",
       "url": "https://eastdalefinance.onrender.com/"
     },
     {
@@ -56,14 +56,14 @@
       "id": "4",
       "title": "adeshinaajayi.com",
       "description": "WordPress, CSS, PHP, Javascript.\r\nADESHINA AJAYI is a Nigerian tech visionary, leader, author and tech educator. This portfolio is a landing page that showcases his expertise and provide links to reaching him from anywhere in the world.",
-      "imageSrc": "https://malachiportfolio.netlify.app/imgs/aatag.PNG",
+      "imageSrc": "/testImage/aatag.png",
       "url": "https://adeshinaajayi.com/"
     },
     {
       "id": "5",
       "title": "digital-focus.org",
       "description": "WordPress, CSS, PHP, Javascript.\r\nDigital Focus is dedicated to demystifying blockchain technology and empowering individuals and businesses to harness its full potential. As a premier blockchain consulting and education company, they offer a comprehensive suite of services tailored to meet the unique needs of blockchain enthusiasts.",
-      "imageSrc": "https://malachiportfolio.netlify.app/imgs/aatag.PNG",
+      "imageSrc": "/testImage/digfuzprev.png",
       "url": "https://digital-focus.org/"
     },
     {
