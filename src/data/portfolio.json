@@ -1,3 +1,4 @@
+
 {
   "name": "Malachi Ezeabuchukwu",
   "headerTaglineOne": "Hello 👋",
@@ -34,7 +35,7 @@
       "id": "1",
       "title": "Banking App Demo",
       "description": "Web Design, React, Javascript",
-      "imageSrc": "https://malachiportfolio.netlify.app/imgs/portfolioimg1.jpg",
+      "imageSrc": "https://malachiportfolio.netlify.app/imgs/digfuzprev.png",
       "url": "https://eastdalefinance.onrender.com/"
     },
     {
@@ -62,14 +63,14 @@
       "id": "5",
       "title": "digital-focus.org",
       "description": "WordPress, CSS, PHP, Javascript.\r\nDigital Focus is dedicated to demystifying blockchain technology and empowering individuals and businesses to harness its full potential. As a premier blockchain consulting and education company, they offer a comprehensive suite of services tailored to meet the unique needs of blockchain enthusiasts.",
-      "imageSrc": "https://malachiportfolio.netlify.app/imgs/digfuzprev.PNG",
+      "imageSrc": "https://malachiportfolio.netlify.app/imgs/aatag.PNG",
       "url": "https://digital-focus.org/"
     },
     {
       "id": "6",
       "title": "Miss New Jersey USA (Personal profile)",
       "description": "WordPress, CSS, PHP, Javascript, SEO, woocommerce.\r\nDerby Ozioma Chukwudi is Miss New Jersey USA 2023 and a 1st generation Nigerian-American born in Dallas, TX. This portfolio beautifully showcases her expertise, provides a marketplace for her publications and provide links to reaching her from anywhere in the world.",
-      "imageSrc": "https://malachiportfolio.netlify.app/imgs/derbyprev.PNG",
+      "imageSrc": "/testImage/derby.png",
       "url": "https://derbyoziomachukwudi.com/"
     }
   ],
