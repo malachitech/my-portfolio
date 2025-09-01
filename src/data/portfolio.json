@@ -36,14 +36,14 @@
       "title": "Boardman Betting Platform",
       "description": "Nextjs, React, Javascript.",
       "imageSrc": "/testImage/tradingbot.png",
-      "url": "https://boardmanbets.vercel.app/"
+      "url": "https://github.com/malachitech/DMoonTradeBot"
     },
     {
       "id": "8",
       "title": "DMoonTradeBot",
       "description": "Python, SolonaaRPC, Railway, sqlite3, flask, cryptography, Telegram, Jupiter API. DMoonTradeBot is a secure and fully asynchronous Telegram-based trading assistant built on the Solana blockchain. It enables users to monitor balances, set trading targets, and execute transactions using encrypted wallets. The bot integrates the Solana RPC, Jupiter API, and real-time rate-limiting to ensure both performance and user safety.",
       "imageSrc": "/testImage/boardman.png",
-      "url": "https://github.com/malachitech/DMoonTradeBot"
+      "url": "https://boardmanbets.vercel.app/"
     },
     
     {
